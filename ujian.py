@@ -38,7 +38,7 @@ st.markdown("""
 
 st.write("""
 # **Final Score App AP2B 1IA21**
-You can use this app to check your score on Saturday, 28 May 2022 20:00.
+Keep fighting and never surrender. #ThisIsOnlyTheBegining
 """)
 
 npm = st.text_input("NPM : ")
